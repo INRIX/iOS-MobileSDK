@@ -1,0 +1,28 @@
+var interface_i_x_c_l_incident =
+[
+    [ "hash", "interface_i_x_c_l_incident.html#aaae8a3e317360de197ab7a8c895314d9", null ],
+    [ "initWithType:coordinate:", "interface_i_x_c_l_incident.html#a1901eb3f121394461a94bc8e2e5fdac6", null ],
+    [ "isEqual:", "interface_i_x_c_l_incident.html#a6cdfe1a9db5e97770037a760175c7603", null ],
+    [ "community", "interface_i_x_c_l_incident.html#a267da27ddf00cd7cbe4ccdb97038ecde", null ],
+    [ "delayImpact", "interface_i_x_c_l_incident.html#a907ff3488c003a4cc92eebd8ed6c6585", null ],
+    [ "endTime", "interface_i_x_c_l_incident.html#a2e77f148aa5d34366a61887f44e0aba7", null ],
+    [ "eventCode", "interface_i_x_c_l_incident.html#aa00c1bcfbec1edcb51f847f52482923f", null ],
+    [ "fullDescription", "interface_i_x_c_l_incident.html#a79b38b77f4df9b6983336e04491fc39e", null ],
+    [ "head", "interface_i_x_c_l_incident.html#a94e4dfd30b4ee1514e50aa1393f5a950", null ],
+    [ "incidentId", "interface_i_x_c_l_incident.html#abd58417aad3ad7628a59932b0045d680", null ],
+    [ "isApprovedOnServer", "interface_i_x_c_l_incident.html#ad8bf18fd3d6e0126473735ff941aa9df", null ],
+    [ "isImpactingTraffic", "interface_i_x_c_l_incident.html#a2cf4844340e539aa05c187565a4d0f66", null ],
+    [ "isVotable", "interface_i_x_c_l_incident.html#a348cf8ae73213f2a0446940450dff4ad", null ],
+    [ "lastDetourPoints", "interface_i_x_c_l_incident.html#ae451c279fb5111295079bc350fdacca3", null ],
+    [ "parameterizedDescription", "interface_i_x_c_l_incident.html#a9f67c728932b91b0842158ced1bbf993", null ],
+    [ "segments", "interface_i_x_c_l_incident.html#a089c59ed08a42466d417be40512b3200", null ],
+    [ "serverCoordinate", "interface_i_x_c_l_incident.html#a2583a39300e4426c785105dfcf5f2e8f", null ],
+    [ "severity", "interface_i_x_c_l_incident.html#a94ba4e28546da24c61556513512ab712", null ],
+    [ "shortDescription", "interface_i_x_c_l_incident.html#a5925323e93d3b376363498afea1e0b35", null ],
+    [ "sideOfRoad", "interface_i_x_c_l_incident.html#a03a2b1306fd544474142b01d15256d81", null ],
+    [ "source", "interface_i_x_c_l_incident.html#a6c4bedb0373b09001b934d67ed09fa9d", null ],
+    [ "startTime", "interface_i_x_c_l_incident.html#a83c9607053b674000819a6121f39205d", null ],
+    [ "tails", "interface_i_x_c_l_incident.html#a0a2b3819b2bda4334748b9c7fd190be5", null ],
+    [ "type", "interface_i_x_c_l_incident.html#ad6832b57c2bb2ae6759a78058fdc3570", null ],
+    [ "version", "interface_i_x_c_l_incident.html#aace000467a89947dd9684c644c845190", null ]
+];

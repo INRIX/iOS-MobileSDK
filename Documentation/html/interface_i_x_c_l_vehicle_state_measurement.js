@@ -1,0 +1,27 @@
+var interface_i_x_c_l_vehicle_state_measurement =
+[
+    [ "abs", "interface_i_x_c_l_vehicle_state_measurement.html#ae5e88844cbdd3a74ebba3774aa315b31", null ],
+    [ "ambientTemp", "interface_i_x_c_l_vehicle_state_measurement.html#ad034dd35e5e47efb18e0c3da79c1f90f", null ],
+    [ "averageMpg", "interface_i_x_c_l_vehicle_state_measurement.html#a138e2e81dc3a9e3c466ca996699f5239", null ],
+    [ "brakes", "interface_i_x_c_l_vehicle_state_measurement.html#af9d2b00c8039fae600c2e7347de5b79e", null ],
+    [ "coolantTemp", "interface_i_x_c_l_vehicle_state_measurement.html#a0719dae3a2aa8fbf9492ab47e88b2809", null ],
+    [ "dewPoint", "interface_i_x_c_l_vehicle_state_measurement.html#a0a8e005a2b16bb5e9fc51f2df9c02785", null ],
+    [ "esc", "interface_i_x_c_l_vehicle_state_measurement.html#a8bf2f3c006b49ddb14e137b81b211860", null ],
+    [ "fuelLevel", "interface_i_x_c_l_vehicle_state_measurement.html#a5eb1569a3d9912ea72e22c046bb35519", null ],
+    [ "fuelTankSizeInGallon", "interface_i_x_c_l_vehicle_state_measurement.html#a51a2160438da8f67b79de544235ccb6f", null ],
+    [ "humidity", "interface_i_x_c_l_vehicle_state_measurement.html#adeabb01e7828b6c57bdb96abbf29f4b5", null ],
+    [ "imap", "interface_i_x_c_l_vehicle_state_measurement.html#aa7f2a800c5263b63c2e76bd43370c3c7", null ],
+    [ "lightLevel", "interface_i_x_c_l_vehicle_state_measurement.html#a61a0411fc249f08e8b0db0874adee988", null ],
+    [ "location", "interface_i_x_c_l_vehicle_state_measurement.html#a68572c6f7a2c1d5d31a10d637e6afd24", null ],
+    [ "mafs", "interface_i_x_c_l_vehicle_state_measurement.html#ac38ab463f35c74dbce16d0f299302976", null ],
+    [ "ozoneLevel", "interface_i_x_c_l_vehicle_state_measurement.html#aa1a0947475382bbb5e72b47fde052b69", null ],
+    [ "pressure", "interface_i_x_c_l_vehicle_state_measurement.html#af58348c55ef507325094cea1303cf902", null ],
+    [ "rainIntensity", "interface_i_x_c_l_vehicle_state_measurement.html#aad3ce539e1a16a457bb7e5e6fd0ee0fe", null ],
+    [ "roadTemp", "interface_i_x_c_l_vehicle_state_measurement.html#a35ba851b56d678a8a8016822f46906eb", null ],
+    [ "rpm", "interface_i_x_c_l_vehicle_state_measurement.html#ab1b09ff2721f3c149f6d6f2bd2e85638", null ],
+    [ "tcsb", "interface_i_x_c_l_vehicle_state_measurement.html#ad5d713e41390f85af50048048f225505", null ],
+    [ "tcse", "interface_i_x_c_l_vehicle_state_measurement.html#a60ed6718e0df421471dd6536f5da3a3a", null ],
+    [ "throttle", "interface_i_x_c_l_vehicle_state_measurement.html#aa2b6d132b03434ea6f966c4216f360c3", null ],
+    [ "timeStamp", "interface_i_x_c_l_vehicle_state_measurement.html#a48e1665cea6db42905b0a8ef13e33a32", null ],
+    [ "wiperStatus", "interface_i_x_c_l_vehicle_state_measurement.html#a843097bb722d66795bddcc200fab844e", null ]
+];
