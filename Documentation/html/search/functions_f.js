@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['usertokenfromlocalstore',['userTokenFromLocalStore',['../interface_i_x_c_l_user_token.html#a18f0275e70c611b5a5db79e0da796478',1,'IXCLUserToken']]]
+  ['tracklocation_3a',['trackLocation:',['../protocol_i_x_c_l_p_h_s_controller_protocol-p.html#a1147bf3dd828cda9bc9eaa36b1a7e7e8',1,'IXCLPHSControllerProtocol-p']]]
 ];

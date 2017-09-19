@@ -29,7 +29,7 @@ var NAVTREE =
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", null ],
+        [ "Functions", "functions_func.html", "functions_func" ],
         [ "Properties", "functions_prop.html", "functions_prop" ]
       ] ]
     ] ]
@@ -39,10 +39,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_dangerous_slowdowns.html",
-"interface_i_x_c_l_drive_time_alerts_options.html",
-"interface_i_x_c_l_parking_block_pricing_payment.html#a32984ad36474ea109cf875f19eec46cc",
-"interface_i_x_c_l_speed_limit_options.html#acd7115490551dc5cbc463106d7539d8b",
-"protocol_i_x_c_l_traffic_quality_controller_protocol-p.html"
+"interface_i_x_c_l_dangerous_slowdown.html#a608d87c992f407e5a2ac51ae58f60123",
+"interface_i_x_c_l_o_auth_info.html",
+"interface_i_x_c_l_sharing_address.html#a21a898ac21378bb47e25e265558ec6ab",
+"protocol_i_x_c_l_cache_controller_protocol-p.html#a826143a025cf397dc7e6800635b13fe6"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

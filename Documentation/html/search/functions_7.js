@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['incidentfromdictionary_3a',['incidentFromDictionary:',['../protocol_i_x_c_l_incidents_controller_protocol-p.html#a449c666e301975888c17a7db31f101c7',1,'IXCLIncidentsControllerProtocol-p']]],
+  ['incidentsclustertoalertforlocation_3a',['incidentsClusterToAlertForLocation:',['../protocol_i_x_c_l_incidents_on_route_tracking_controller_protocol-p.html#aa6806d9ebf05ce48fd7545595d407e68',1,'IXCLIncidentsOnRouteTrackingControllerProtocol-p']]],
   ['initwithapplicationid_3aapplicationkey_3aapplicationname_3aapplicationversion_3a',['initWithApplicationId:applicationKey:applicationName:applicationVersion:',['../interface_i_x_c_l_core_options.html#a0b7c561eb1a3828a58d324141b3f7b4d',1,'IXCLCoreOptions']]],
   ['initwithauthoperationtype_3auseraccount_3apassword_3a',['initWithAuthOperationType:userAccount:password:',['../interface_i_x_c_l_user_auth_options.html#a63a122d20e28037fd14e52402ac991ac',1,'IXCLUserAuthOptions']]],
   ['initwithbounds_3a',['initWithBounds:',['../interface_i_x_c_l_point_quad_tree.html#adb72346147f760ed85d6dbe5ca7008fb',1,'IXCLPointQuadTree']]],
@@ -21,6 +23,8 @@ var searchData=
   ['initwithhiddenflag_3alocations_3a',['initWithHiddenFlag:locations:',['../interface_i_x_c_l_learned_location_update_options.html#abd8980567aa00cfa8d7204b156d7e0ee',1,'IXCLLearnedLocationUpdateOptions']]],
   ['initwithincident_3a',['initWithIncident:',['../interface_i_x_c_l_incident_delete_options.html#a9afd780e99dfe6b5934ec107d00d390b',1,'IXCLIncidentDeleteOptions']]],
   ['initwithincident_3areviewstate_3a',['initWithIncident:reviewState:',['../interface_i_x_c_l_incident_review_options.html#a04dadf1c0b7fdd9cde6769ce27fc8efd',1,'IXCLIncidentReviewOptions']]],
+  ['initwithinrixcore_3a',['initWithInrixCore:',['../protocol_i_x_c_l_drive_time_alerts_controller_protocol-p.html#aa466b18691d23fc14823001229336d54',1,'IXCLDriveTimeAlertsControllerProtocol-p']]],
+  ['initwithinrixcore_3abaserouteoptions_3a',['initWithInrixCore:baseRouteOptions:',['../protocol_i_x_c_l_route_update_controller_protocol-p.html#a4ca8f090d49109db68a78bd1f0a78e0d',1,'IXCLRouteUpdateControllerProtocol-p']]],
   ['initwithlatitudetopleft_3alongitudetopleft_3alatitudbottomright_3alongitudebottomright_3a',['initWithLatitudeTopLeft:longitudeTopLeft:latitudBottomRight:longitudeBottomRight:',['../interface_i_x_c_l_bounding_box.html#a1d96f3949a22815ec5abea6a764c265f',1,'IXCLBoundingBox']]],
   ['initwithlearnedtrip_3a',['initWithLearnedTrip:',['../interface_i_x_c_l_saved_trip.html#ab62049d7cf2ccb08378841f5cd086d03',1,'IXCLSavedTrip']]],
   ['initwithlocation_3a',['initWithLocation:',['../interface_i_x_c_l_location_update_options.html#a622db0c6b7ebc653d7df0d5bd2932a19',1,'IXCLLocationUpdateOptions']]],
@@ -68,7 +72,13 @@ var searchData=
   ['initwithvehicleid_3ameasurements_3a',['initWithVehicleId:measurements:',['../interface_i_x_c_l_send_vehicle_state_options.html#a2a81907d8c098071f27b90bfa5db428a',1,'IXCLSendVehicleStateOptions']]],
   ['initwithworldwidth_3a',['initWithWorldWidth:',['../interface_i_x_c_l_spherical_mercator_projection.html#a57f89e178c398660023703b0a60407cf',1,'IXCLSphericalMercatorProjection']]],
   ['invokeservice_3aqueryparameters_3acompletion_3a',['invokeService:queryParameters:completion:',['../interface_i_x_c_l_core.html#a3db481e121cbb376bc4f5b35308ee992',1,'IXCLCore']]],
+  ['invokeservice_3aqueryparameters_3aregionparameter_3acompletion_3a',['invokeService:queryParameters:regionParameter:completion:',['../interface_i_x_c_l_core.html#abfd33c8a4ffad11cebc8238a4660f86c',1,'IXCLCore']]],
   ['isequal_3a',['isEqual:',['../interface_i_x_c_l_server_camera.html#a7ea2e8399a31cf9e984a019648d6d2e8',1,'IXCLServerCamera::isEqual:()'],['../interface_i_x_c_l_aggregate_map_point.html#aadc2dc5e85231f7d2b6730f3f5786956',1,'IXCLAggregateMapPoint::isEqual:()'],['../interface_i_x_c_l_gas_station.html#ab2fe4ae14abd198cb7ca8897206597ba',1,'IXCLGasStation::isEqual:()'],['../interface_i_x_c_l_incident.html#a6cdfe1a9db5e97770037a760175c7603',1,'IXCLIncident::isEqual:()'],['../interface_i_x_c_l_location.html#a93fcb314189d35ce67e0ed5b3415fd68',1,'IXCLLocation::isEqual:()']]],
+  ['isexpiredtraffictilewithoptions_3aerror_3a',['isExpiredTrafficTileWithOptions:error:',['../protocol_i_x_c_l_traffic_tiles_controller_protocol-p.html#a8ffb3b6571fe0712ea4dd6706fbb09f9',1,'IXCLTrafficTilesControllerProtocol-p']]],
+  ['islocallyreportedincident_3a',['isLocallyReportedIncident:',['../protocol_i_x_c_l_incidents_controller_protocol-p.html#a169a9cbf661f86e23bc361ea9c8769c1',1,'IXCLIncidentsControllerProtocol-p']]],
+  ['isobjectwithkeyexpired_3a',['isObjectWithKeyExpired:',['../protocol_i_x_c_l_cache_controller_protocol-p.html#ad5275b2eff47ee07669c6614b7bc5ff5',1,'IXCLCacheControllerProtocol-p']]],
+  ['isrequestwithkeypending_3a',['isRequestWithKeyPending:',['../protocol_i_x_c_l_cache_controller_protocol-p.html#a5868d0596f9fd8e27e1a7d70b650e1a1',1,'IXCLCacheControllerProtocol-p']]],
   ['isusertokenvalidfortoken_3a',['isUserTokenValidForToken:',['../interface_i_x_c_l_user_token.html#ab70337a9f81f813af5e35e52c5309857',1,'IXCLUserToken']]],
-  ['isvalid',['isValid',['../interface_i_x_c_l_push_token.html#a1454c0d9f8f80e087960ddc1ea423bfb',1,'IXCLPushToken']]]
+  ['isvalid',['isValid',['../interface_i_x_c_l_push_token.html#a1454c0d9f8f80e087960ddc1ea423bfb',1,'IXCLPushToken']]],
+  ['isvotedonincident_3a',['isVotedOnIncident:',['../protocol_i_x_c_l_incidents_controller_protocol-p.html#aaa1ad43a07fb8e07acd086a2be8bd134',1,'IXCLIncidentsControllerProtocol-p']]]
 ];

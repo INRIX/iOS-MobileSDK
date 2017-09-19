@@ -40,6 +40,7 @@ var searchData=
   ['tripid',['tripId',['../interface_i_x_c_l_saved_trip.html#a8efa8487d75c165c96cff7c78898fb2c',1,'IXCLSavedTrip']]],
   ['triprecordingenabled',['tripRecordingEnabled',['../interface_i_x_c_l_core_options.html#a8d64594189bb3a2aea3c9caea5d44a7e',1,'IXCLCoreOptions']]],
   ['trips',['trips',['../interface_i_x_c_l_get_saved_trips_response.html#a216214b5b371730006a686cdb97e88de',1,'IXCLGetSavedTripsResponse']]],
+  ['tripstatus',['tripStatus',['../protocol_i_x_c_l_current_location_manager_protocol-p.html#ad5ea93e852507f854ad7df2f891822d7',1,'IXCLCurrentLocationManagerProtocol-p']]],
   ['triptype',['tripType',['../interface_i_x_c_l_itinerary_entry.html#affd955cc252a1337aa51d8468e2410a7',1,'IXCLItineraryEntry']]],
   ['trustlevel',['trustLevel',['../interface_i_x_c_l_incident_contributor.html#a1089f2d6e89a8e170b8ea9948d514714',1,'IXCLIncidentContributor']]],
   ['ttsdescription',['ttsDescription',['../interface_i_x_c_l_x_d_incident.html#a6fb61a3b90d57ed262b5b39ba420233f',1,'IXCLXDIncident']]],

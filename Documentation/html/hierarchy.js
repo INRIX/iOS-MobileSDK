@@ -7,7 +7,14 @@ var hierarchy =
       [ "IXCLAuthController", "interface_i_x_c_l_auth_controller.html", null ]
     ] ],
     [ "IXCLAuthResponse", "interface_i_x_c_l_auth_response.html", null ],
-    [ "<IXCLBaseControllerWithCacheProtocol>", "protocol_i_x_c_l_base_controller_with_cache_protocol-p.html", null ],
+    [ "<IXCLBaseControllerWithCacheProtocol>", "protocol_i_x_c_l_base_controller_with_cache_protocol-p.html", [
+      [ "<IXCLLocationsControllerProtocol>", "protocol_i_x_c_l_locations_controller_protocol-p.html", [
+        [ "IXCLLocationsController", "interface_i_x_c_l_locations_controller.html", null ]
+      ] ],
+      [ "<IXCLRoutesControllerProtocol>", "protocol_i_x_c_l_routes_controller_protocol-p.html", [
+        [ "IXCLRoutesController", "interface_i_x_c_l_routes_controller.html", null ]
+      ] ]
+    ] ],
     [ "IXCLBaseOptions", "interface_i_x_c_l_base_options.html", [
       [ "IXCLCameraImageOptions", "interface_i_x_c_l_camera_image_options.html", null ],
       [ "IXCLCamerasOnRouteOptions", "interface_i_x_c_l_cameras_on_route_options.html", null ],
@@ -74,7 +81,6 @@ var hierarchy =
       [ "IXCLDriveTimeAlertsController", "interface_i_x_c_l_drive_time_alerts_controller.html", null ]
     ] ],
     [ "IXCLDriveTimeAlertsOptions", "interface_i_x_c_l_drive_time_alerts_options.html", null ],
-    [ "<IXCLEDustControllerProtocol>", "protocol_i_x_c_l_e_dust_controller_protocol-p.html", null ],
     [ "IXCLFuelProduct", "interface_i_x_c_l_fuel_product.html", null ],
     [ "IXCLGasStation", "interface_i_x_c_l_gas_station.html", null ],
     [ "<IXCLGasStationsControllerProtocol>", "protocol_i_x_c_l_gas_stations_controller_protocol-p.html", [
@@ -123,9 +129,6 @@ var hierarchy =
       [ "IXCLSavedLocation", "interface_i_x_c_l_saved_location.html", null ]
     ] ],
     [ "IXCLLocationCreateOptions", "interface_i_x_c_l_location_create_options.html", null ],
-    [ "<IXCLLocationsControllerProtocol>", "protocol_i_x_c_l_locations_controller_protocol-p.html", [
-      [ "IXCLLocationsController", "interface_i_x_c_l_locations_controller.html", null ]
-    ] ],
     [ "IXCLLocationUpdateOptions", "interface_i_x_c_l_location_update_options.html", null ],
     [ "IXCLLogger", "interface_i_x_c_l_logger.html", null ],
     [ "<IXCLMobileStatControllerProtocol>", "protocol_i_x_c_l_mobile_stat_controller_protocol-p.html", null ],
@@ -169,9 +172,6 @@ var hierarchy =
     [ "IXCLRoad", "interface_i_x_c_l_road.html", null ],
     [ "IXCLRoute", "interface_i_x_c_l_route.html", null ],
     [ "IXCLRoutePoint", "interface_i_x_c_l_route_point.html", null ],
-    [ "<IXCLRoutesControllerProtocol>", "protocol_i_x_c_l_routes_controller_protocol-p.html", [
-      [ "IXCLRoutesController", "interface_i_x_c_l_routes_controller.html", null ]
-    ] ],
     [ "IXCLRouteSummary", "interface_i_x_c_l_route_summary.html", null ],
     [ "<IXCLRouteTrackingControllerProtocol>", "protocol_i_x_c_l_route_tracking_controller_protocol-p.html", null ],
     [ "IXCLRouteTravelTimes", "interface_i_x_c_l_route_travel_times.html", null ],
@@ -192,9 +192,9 @@ var hierarchy =
     [ "IXCLServerCamera", "interface_i_x_c_l_server_camera.html", null ],
     [ "IXCLSharingAddress", "interface_i_x_c_l_sharing_address.html", null ],
     [ "IXCLSingleGasStationOptions", "interface_i_x_c_l_single_gas_station_options.html", null ],
-    [ "<IXCLSocialProviderProtocol >", "protocol_i_x_c_l_social_provider_protocol_01-p.html", null ],
-    [ "<IXCLSocialProviderServiceConfigProtocol >", "protocol_i_x_c_l_social_provider_service_config_protocol_01-p.html", null ],
-    [ "<IXCLSocialProviderServiceProtocol >", "protocol_i_x_c_l_social_provider_service_protocol_01-p.html", null ],
+    [ "<IXCLSocialProviderProtocol>", "protocol_i_x_c_l_social_provider_protocol-p.html", null ],
+    [ "<IXCLSocialProviderServiceConfigProtocol>", "protocol_i_x_c_l_social_provider_service_config_protocol-p.html", null ],
+    [ "<IXCLSocialProviderServiceProtocol>", "protocol_i_x_c_l_social_provider_service_protocol-p.html", null ],
     [ "IXCLSpeedBucket", "interface_i_x_c_l_speed_bucket.html", null ],
     [ "<IXCLSpeedLimitControllerProtocol>", "protocol_i_x_c_l_speed_limit_controller_protocol-p.html", [
       [ "IXCLSpeedLimitController", "interface_i_x_c_l_speed_limit_controller.html", null ]

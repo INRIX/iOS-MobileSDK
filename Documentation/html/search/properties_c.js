@@ -11,6 +11,7 @@ var searchData=
   ['openinghours',['openingHours',['../interface_i_x_c_l_parking_lot.html#a7d9f3464ec1d0f0eddb96502da20d5d4',1,'IXCLParkingLot']]],
   ['operationid',['operationId',['../interface_i_x_c_l_network_metric.html#a8c95e49c727b4c83c8b1bb89c59148c7',1,'IXCLNetworkMetric']]],
   ['operators',['operators',['../interface_i_x_c_l_parking_lot.html#af14808f75b1b5a5c14e0f562cffaa090',1,'IXCLParkingLot']]],
+  ['options',['options',['../protocol_i_x_c_l_incidents_on_route_tracking_controller_protocol-p.html#a9e3549af96a3b2b85dc30d17e8532257',1,'IXCLIncidentsOnRouteTrackingControllerProtocol-p']]],
   ['origin',['origin',['../interface_i_x_c_l_learned_trip.html#adecaa0007a8b342255162ad445efa0d3',1,'IXCLLearnedTrip::origin()'],['../interface_i_x_c_l_saved_trip.html#a14ecc7bbbf8e928d12b122cd5f0da987',1,'IXCLSavedTrip::origin()']]],
   ['originalspeedbuckets',['originalSpeedBuckets',['../interface_i_x_c_l_route.html#a9e4d6301dc0bb858a3f33f8d6db07deb',1,'IXCLRoute']]],
   ['outofservice',['outOfService',['../interface_i_x_c_l_camera_status.html#a0c0c4e639e812948a85b2c875b3f73ec',1,'IXCLCameraStatus']]],

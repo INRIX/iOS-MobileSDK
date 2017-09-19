@@ -4,6 +4,7 @@ var searchData=
   ['languageidentifier',['languageIdentifier',['../interface_i_x_c_l_core.html#a74c0e11f73efda0f30a3fbd4da4584bb',1,'IXCLCore']]],
   ['lastdetourpoints',['lastDetourPoints',['../interface_i_x_c_l_incident.html#ae451c279fb5111295079bc350fdacca3',1,'IXCLIncident']]],
   ['latitude',['latitude',['../interface_i_x_c_l_search_result.html#ab1d10db37359ccf3ac336a4696c13061',1,'IXCLSearchResult']]],
+  ['learnedlocations',['learnedLocations',['../protocol_i_x_c_l_locations_controller_protocol-p.html#a039c83a178eff94acb842a96e01be4a1',1,'IXCLLocationsControllerProtocol-p']]],
   ['leaveinminutes',['leaveInMinutes',['../interface_i_x_c_l_pre_drive_push_notification.html#ad7110ce574e86c50916550d9b4552bc3',1,'IXCLPreDrivePushNotification']]],
   ['license',['license',['../interface_i_x_c_l_server_camera.html#a64f22832b1fc96e489b82a512ff6eed8',1,'IXCLServerCamera']]],
   ['lightlevel',['lightLevel',['../interface_i_x_c_l_vehicle_state_measurement.html#a61a0411fc249f08e8b0db0874adee988',1,'IXCLVehicleStateMeasurement']]],

@@ -18,6 +18,8 @@ var searchData=
   ['phonenumber',['phoneNumber',['../interface_i_x_c_l_address.html#ab38c5a3051e770af983d0390b4fd3501',1,'IXCLAddress']]],
   ['photos',['photos',['../interface_i_x_c_l_parking_lot.html#a23dd67bd73bcd88d7da05fec768ecdc5',1,'IXCLParkingLot']]],
   ['phsdatauploadmode',['phsDataUploadMode',['../interface_i_x_c_l_core_options.html#a26f5a0e498a2aad4a7db00707e527ae1',1,'IXCLCoreOptions']]],
+  ['phsqueuecount',['phsQueueCount',['../protocol_i_x_c_l_p_h_s_controller_protocol-p.html#a59559b8bf7ab77fbd6173f5f5c6416d9',1,'IXCLPHSControllerProtocol-p']]],
+  ['phssendertimeinterval',['phsSenderTimeInterval',['../protocol_i_x_c_l_p_h_s_controller_protocol-p.html#aa214dec94765febd2dce9cf4bd2f291b',1,'IXCLPHSControllerProtocol-p']]],
   ['placedescription',['placeDescription',['../interface_i_x_c_l_search_autocomplete_match.html#a639c60b4e1c2e8a2a6c366638f80b728',1,'IXCLSearchAutocompleteMatch']]],
   ['placeid',['placeId',['../interface_i_x_c_l_search_autocomplete_match.html#ad32f99fb27da10f3fb524dd49d93e5ba',1,'IXCLSearchAutocompleteMatch']]],
   ['point',['point',['../interface_i_x_c_l_waypoint.html#af6305088cb341e088010866d882ac203',1,'IXCLWaypoint::point()'],['../interface_i_x_c_l_speed_limit_options.html#a872466f0b2e4e302fb33038018daef23',1,'IXCLSpeedLimitOptions::point()']]],
@@ -30,6 +32,8 @@ var searchData=
   ['predrivealertminutes',['preDriveAlertMinutes',['../interface_i_x_c_l_update_notification_options.html#a691838b9e20f164a0a31b9e11d18465a',1,'IXCLUpdateNotificationOptions']]],
   ['predrivenotificationminutes',['preDriveNotificationMinutes',['../interface_i_x_c_l_calendar_trip.html#a49dd05264aaff3b847080356cf46e136',1,'IXCLCalendarTrip']]],
   ['preferred',['preferred',['../interface_i_x_c_l_gas_station.html#a1764d42d4d7d9ee69b364a8a5bdb4040',1,'IXCLGasStation']]],
+  ['preferredprimaryrouteindex',['preferredPrimaryRouteIndex',['../protocol_i_x_c_l_route_update_controller_protocol-p.html#aec06881a1fdc01bac346a4fa65a25657',1,'IXCLRouteUpdateControllerProtocol-p']]],
+  ['preserveroutes',['preserveRoutes',['../protocol_i_x_c_l_route_update_controller_protocol-p.html#a27707ad7fb9e95c747da49167fe0e02f',1,'IXCLRouteUpdateControllerProtocol-p']]],
   ['pressure',['pressure',['../interface_i_x_c_l_vehicle_state_measurement.html#af58348c55ef507325094cea1303cf902',1,'IXCLVehicleStateMeasurement']]],
   ['price',['price',['../interface_i_x_c_l_fuel_product.html#abfc8a7bbe80c0a186e70dc4f79213289',1,'IXCLFuelProduct']]],
   ['pricingpayments',['pricingPayments',['../interface_i_x_c_l_parking_lot.html#ac89b57ebf39eabedb543b80006d26fd3',1,'IXCLParkingLot']]],
@@ -38,5 +42,5 @@ var searchData=
   ['productscontroller',['productsController',['../interface_i_x_c_l_core.html#ae13dfea7ca54d17b5601f92eab80a610',1,'IXCLCore']]],
   ['profilename',['profileName',['../interface_i_x_c_l_user_account.html#ac7b9363c941d88c055c853819a43f2ab',1,'IXCLUserAccount::profileName()'],['../interface_i_x_c_l_update_user_options.html#a8521b4eb53073094d3c332fb19f95a83',1,'IXCLUpdateUserOptions::profileName()']]],
   ['provider',['provider',['../interface_i_x_c_l_o_auth_info.html#ad669c311ffaa9b1d135fef0b63584ad8',1,'IXCLOAuthInfo']]],
-  ['pushtoken',['pushToken',['../interface_i_x_c_l_user_auth_options.html#a0f239c8a41f441df7f0fcc55c9269133',1,'IXCLUserAuthOptions']]]
+  ['pushtoken',['pushToken',['../protocol_i_x_c_l_auth_controller_protocol-p.html#a7f0a684b926beb3da0fd0ab5d1252735',1,'IXCLAuthControllerProtocol-p::pushToken()'],['../interface_i_x_c_l_user_auth_options.html#a0f239c8a41f441df7f0fcc55c9269133',1,'IXCLUserAuthOptions::pushToken()']]]
 ];

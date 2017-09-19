@@ -17,6 +17,7 @@ var searchData=
   ['passwordnew',['passwordNew',['../interface_i_x_c_l_change_password_options.html#a29fa710a0f9c8c120896ad4d7f4cf1a4',1,'IXCLChangePasswordOptions']]],
   ['passwordold',['passwordOld',['../interface_i_x_c_l_change_password_options.html#a89ff36991e0c3cd0073b0f3a7cb1fe84',1,'IXCLChangePasswordOptions']]],
   ['pause',['pause',['../interface_i_x_c_l_timer.html#a1e14c8a84e79eda9faf6603a8de32e8f',1,'IXCLTimer']]],
+  ['pausealertingonincidents',['pauseAlertingOnIncidents',['../protocol_i_x_c_l_drive_time_alerts_controller_protocol-p.html#ae9eb65584799772b9b056e6cd73b75b0',1,'IXCLDriveTimeAlertsControllerProtocol-p']]],
   ['paymentmethods',['paymentMethods',['../interface_i_x_c_l_parking_lot.html#a0b7f447e828dd944855d7ded66fe3d57',1,'IXCLParkingLot']]],
   ['paymentmethodtypefromstring_3a',['paymentMethodTypeFromString:',['../interface_i_x_c_l_parking_lot.html#abca50b24d94dba2e1cd2490e86c749c1',1,'IXCLParkingLot']]],
   ['paystations',['payStations',['../interface_i_x_c_l_parking_block.html#a83d11be83747c502cc0f475671964d80',1,'IXCLParkingBlock']]],
@@ -24,6 +25,8 @@ var searchData=
   ['phonenumber',['phoneNumber',['../interface_i_x_c_l_address.html#ab38c5a3051e770af983d0390b4fd3501',1,'IXCLAddress']]],
   ['photos',['photos',['../interface_i_x_c_l_parking_lot.html#a23dd67bd73bcd88d7da05fec768ecdc5',1,'IXCLParkingLot']]],
   ['phsdatauploadmode',['phsDataUploadMode',['../interface_i_x_c_l_core_options.html#a26f5a0e498a2aad4a7db00707e527ae1',1,'IXCLCoreOptions']]],
+  ['phsqueuecount',['phsQueueCount',['../protocol_i_x_c_l_p_h_s_controller_protocol-p.html#a59559b8bf7ab77fbd6173f5f5c6416d9',1,'IXCLPHSControllerProtocol-p']]],
+  ['phssendertimeinterval',['phsSenderTimeInterval',['../protocol_i_x_c_l_p_h_s_controller_protocol-p.html#aa214dec94765febd2dce9cf4bd2f291b',1,'IXCLPHSControllerProtocol-p']]],
   ['placedescription',['placeDescription',['../interface_i_x_c_l_search_autocomplete_match.html#a639c60b4e1c2e8a2a6c366638f80b728',1,'IXCLSearchAutocompleteMatch']]],
   ['placeid',['placeId',['../interface_i_x_c_l_search_autocomplete_match.html#ad32f99fb27da10f3fb524dd49d93e5ba',1,'IXCLSearchAutocompleteMatch']]],
   ['point',['point',['../interface_i_x_c_l_waypoint.html#af6305088cb341e088010866d882ac203',1,'IXCLWaypoint::point()'],['../interface_i_x_c_l_speed_limit_options.html#a872466f0b2e4e302fb33038018daef23',1,'IXCLSpeedLimitOptions::point()']]],
@@ -37,6 +40,8 @@ var searchData=
   ['predrivealertminutes',['preDriveAlertMinutes',['../interface_i_x_c_l_update_notification_options.html#a691838b9e20f164a0a31b9e11d18465a',1,'IXCLUpdateNotificationOptions']]],
   ['predrivenotificationminutes',['preDriveNotificationMinutes',['../interface_i_x_c_l_calendar_trip.html#a49dd05264aaff3b847080356cf46e136',1,'IXCLCalendarTrip']]],
   ['preferred',['preferred',['../interface_i_x_c_l_gas_station.html#a1764d42d4d7d9ee69b364a8a5bdb4040',1,'IXCLGasStation']]],
+  ['preferredprimaryrouteindex',['preferredPrimaryRouteIndex',['../protocol_i_x_c_l_route_update_controller_protocol-p.html#aec06881a1fdc01bac346a4fa65a25657',1,'IXCLRouteUpdateControllerProtocol-p']]],
+  ['preserveroutes',['preserveRoutes',['../protocol_i_x_c_l_route_update_controller_protocol-p.html#a27707ad7fb9e95c747da49167fe0e02f',1,'IXCLRouteUpdateControllerProtocol-p']]],
   ['pressure',['pressure',['../interface_i_x_c_l_vehicle_state_measurement.html#af58348c55ef507325094cea1303cf902',1,'IXCLVehicleStateMeasurement']]],
   ['price',['price',['../interface_i_x_c_l_fuel_product.html#abfc8a7bbe80c0a186e70dc4f79213289',1,'IXCLFuelProduct']]],
   ['pricingpayments',['pricingPayments',['../interface_i_x_c_l_parking_lot.html#ac89b57ebf39eabedb543b80006d26fd3',1,'IXCLParkingLot']]],
@@ -45,5 +50,10 @@ var searchData=
   ['productscontroller',['productsController',['../interface_i_x_c_l_core.html#ae13dfea7ca54d17b5601f92eab80a610',1,'IXCLCore']]],
   ['profilename',['profileName',['../interface_i_x_c_l_user_account.html#ac7b9363c941d88c055c853819a43f2ab',1,'IXCLUserAccount::profileName()'],['../interface_i_x_c_l_update_user_options.html#a8521b4eb53073094d3c332fb19f95a83',1,'IXCLUpdateUserOptions::profileName()']]],
   ['provider',['provider',['../interface_i_x_c_l_o_auth_info.html#ad669c311ffaa9b1d135fef0b63584ad8',1,'IXCLOAuthInfo']]],
-  ['pushtoken',['pushToken',['../interface_i_x_c_l_user_auth_options.html#a0f239c8a41f441df7f0fcc55c9269133',1,'IXCLUserAuthOptions']]]
+  ['purgecache',['purgeCache',['../protocol_i_x_c_l_base_controller_with_cache_protocol-p.html#a416ed0526c7c33ae34719cf8c7b0538b',1,'IXCLBaseControllerWithCacheProtocol-p::purgeCache()'],['../protocol_i_x_c_l_cache_controller_protocol-p.html#a826143a025cf397dc7e6800635b13fe6',1,'IXCLCacheControllerProtocol-p::purgeCache()'],['../protocol_i_x_c_l_incidents_controller_protocol-p.html#a71e097c357899568d52792119d8d1b5d',1,'IXCLIncidentsControllerProtocol-p::purgeCache()']]],
+  ['purgeexpiredentries',['purgeExpiredEntries',['../protocol_i_x_c_l_cache_controller_protocol-p.html#aa0fd36b0a68fc32b24d8e017876af44d',1,'IXCLCacheControllerProtocol-p']]],
+  ['purgelocallyreportedincidentids',['purgeLocallyReportedIncidentIds',['../protocol_i_x_c_l_incidents_controller_protocol-p.html#a4b393c2d11fe1c2504db3cdaaa5b333e',1,'IXCLIncidentsControllerProtocol-p']]],
+  ['purgeunconfirmedincidents',['purgeUnconfirmedIncidents',['../protocol_i_x_c_l_incidents_controller_protocol-p.html#a98fcc0d15e4fd294d61e9322221300db',1,'IXCLIncidentsControllerProtocol-p']]],
+  ['purgevotedonincidentids',['purgeVotedOnIncidentIds',['../protocol_i_x_c_l_incidents_controller_protocol-p.html#af0dd4108c9293dd76acd49fcabe3da4c',1,'IXCLIncidentsControllerProtocol-p']]],
+  ['pushtoken',['pushToken',['../protocol_i_x_c_l_auth_controller_protocol-p.html#a7f0a684b926beb3da0fd0ab5d1252735',1,'IXCLAuthControllerProtocol-p::pushToken()'],['../interface_i_x_c_l_user_auth_options.html#a0f239c8a41f441df7f0fcc55c9269133',1,'IXCLUserAuthOptions::pushToken()']]]
 ];

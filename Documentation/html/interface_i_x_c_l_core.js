@@ -2,6 +2,7 @@ var interface_i_x_c_l_core =
 [
     [ "initWithOptions:", "interface_i_x_c_l_core.html#abcd55116564eb57c8937c2ac81aad591", null ],
     [ "invokeService:queryParameters:completion:", "interface_i_x_c_l_core.html#a3db481e121cbb376bc4f5b35308ee992", null ],
+    [ "invokeService:queryParameters:regionParameter:completion:", "interface_i_x_c_l_core.html#abfd33c8a4ffad11cebc8238a4660f86c", null ],
     [ "recordDownloadMetrics:bytesRead:totalBytesRead:totalBytesExpectedToRead:", "interface_i_x_c_l_core.html#aaa440314d3089e0df67ef0131139678b", null ],
     [ "recordUploadMetrics:bytesWritten:totalBytesWritten:totalBytesExpectedToWrite:", "interface_i_x_c_l_core.html#a7dfa2c25797f9c69d9c85821fbe57997", null ],
     [ "requestPermissionForService:", "interface_i_x_c_l_core.html#a86e1f421ad60af18dfe249a013780a8e", null ],

@@ -8,7 +8,7 @@ var searchData=
   ['updatefrequency',['updateFrequency',['../interface_i_x_c_l_camera_status.html#aebb092a646c6f038323238785d7301e9',1,'IXCLCameraStatus']]],
   ['urlrequest',['urlRequest',['../interface_i_x_c_l_core_response.html#a265310c1a932ecbb53a13b284aee86e1',1,'IXCLCoreResponse']]],
   ['usecache',['useCache',['../interface_i_x_c_l_base_options.html#a68b7d41fd21d930e75d1ca392268da48',1,'IXCLBaseOptions']]],
-  ['useraccount',['userAccount',['../interface_i_x_c_l_user_account_options.html#acfc6670fec7746a5dcf9c98b1d7cffd9',1,'IXCLUserAccountOptions']]],
+  ['useraccount',['userAccount',['../protocol_i_x_c_l_auth_controller_protocol-p.html#ac2dacc71ae747a2be4248a2542de3d46',1,'IXCLAuthControllerProtocol-p::userAccount()'],['../interface_i_x_c_l_user_account_options.html#acfc6670fec7746a5dcf9c98b1d7cffd9',1,'IXCLUserAccountOptions::userAccount()']]],
   ['userid',['userId',['../interface_i_x_c_l_o_auth_info.html#a1cc262f91d90c98f0b63c7e84644c53e',1,'IXCLOAuthInfo::userId()'],['../interface_i_x_c_l_user_account.html#a0012db86f1aaaefaff4cc9ccf032ffe8',1,'IXCLUserAccount::userId()'],['../interface_i_x_c_l_leaderboard_user.html#ac377dbb5b5aabbde76d65e1ff7f3d926',1,'IXCLLeaderboardUser::userId()']]],
   ['userinfo',['userInfo',['../interface_i_x_c_l_unknown_push_notification.html#ad72653591e23bc9020cbd64f85af5967',1,'IXCLUnknownPushNotification']]],
   ['userlocation',['userLocation',['../interface_i_x_c_l_updated_route_options.html#a1dba528e7ce54953a1f89afb0f9d396c',1,'IXCLUpdatedRouteOptions']]],
