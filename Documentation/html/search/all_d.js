@@ -5,6 +5,7 @@ var searchData=
   ['oauthprovider',['oAuthProvider',['../interface_i_x_c_l_user_account.html#a1ffd1e8fe8c4e08f45e2090718201464',1,'IXCLUserAccount']]],
   ['oauthuserid',['oAuthUserId',['../interface_i_x_c_l_user_account.html#a47227d7aeba9b5a05897f473f6bc2537',1,'IXCLUserAccount']]],
   ['objectforkeyedsubscript_3a',['objectForKeyedSubscript:',['../protocol_i_x_c_l_cache_controller_protocol-p.html#a2f391747e05f59ec7007dd5bd9dae060',1,'IXCLCacheControllerProtocol-p']]],
+  ['occupancybucket',['occupancyBucket',['../interface_i_x_c_l_parking_block.html#a2750edfc39f0bd3ac105dfcd541db9ea',1,'IXCLParkingBlock']]],
   ['occurrencedescriptions',['occurrenceDescriptions',['../interface_i_x_c_l_x_d_incident_reoccurring_schedule.html#a37674e3c4b36173c065871b04136a0cd',1,'IXCLXDIncidentReoccurringSchedule']]],
   ['occurrencestarttime',['occurrenceStartTime',['../interface_i_x_c_l_dangerous_slowdown.html#a43d80ebddf52b95d67e7a38fc22322d9',1,'IXCLDangerousSlowdown']]],
   ['offset',['offset',['../interface_i_x_c_l_segment.html#a8d864433e56ce262c3f9654f33ba34c1',1,'IXCLSegment']]],

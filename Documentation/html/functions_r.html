@@ -29,7 +29,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">iOS INRIX Mobile SDK
-   &#160;<span id="projectnumber">6.0</span>
+   &#160;<span id="projectnumber">7.1.0</span>
    </div>
    <div id="projectbrief">INRIX Client Library for iOS</div>
   </td>
@@ -89,7 +89,7 @@ $(document).ready(function(){initNavTree('functions_r.html','');});
 , <a class="el" href="interface_i_x_c_l_gas_stations_in_radius_options.html#ab97e714bec602a00b435cfc98b06073a">IXCLGasStationsInRadiusOptions</a>
 , <a class="el" href="interface_i_x_c_l_gas_stations_on_route_options.html#af062a7a143d0d333cc3a8fd9ced4e3c4">IXCLGasStationsOnRouteOptions</a>
 , <a class="el" href="interface_i_x_c_l_incidents_in_radius_options.html#a303874d396e522feebe2dc38a1d49e7c">IXCLIncidentsInRadiusOptions</a>
-, <a class="el" href="interface_i_x_c_l_parking_lots_in_radius_options.html#ac1551b4f5aca9490b784145e797f84ac">IXCLParkingLotsInRadiusOptions</a>
+, <a class="el" href="interface_i_x_c_l_parking_lots_in_radius_options.html#a6f66132172c43a5df50f4aa67b37127d">IXCLParkingLotsInRadiusOptions</a>
 , <a class="el" href="interface_i_x_c_l_request_in_radius_options.html#ab04d90e1cd8ac0e98f1be1a6c940bae8">IXCLRequestInRadiusOptions</a>
 </li>
 <li>rainIntensity
@@ -103,6 +103,15 @@ $(document).ready(function(){initNavTree('functions_r.html','');});
 </li>
 <li>ranking
 : <a class="el" href="interface_i_x_c_l_incident_contributor.html#a9f211fc4f2d6730eb1aa158adb165717">IXCLIncidentContributor</a>
+</li>
+<li>rateCard
+: <a class="el" href="interface_i_x_c_l_parking_lot.html#a7e8e9321ee2fbcd054c03a148c3aa5cb">IXCLParkingLot</a>
+</li>
+<li>rateCost
+: <a class="el" href="interface_i_x_c_l_parking_calculated_rate.html#a1e149be45e308f26cfb9d6f84f0515aa">IXCLParkingCalculatedRate</a>
+</li>
+<li>rateType
+: <a class="el" href="interface_i_x_c_l_parking_calculated_rate.html#af6c1c5f3be5d4a7226b46d19bdf7bf39">IXCLParkingCalculatedRate</a>
 </li>
 <li>recommendedRefreshDetailsTimeInterval
 : <a class="el" href="protocol_i_x_c_l_incidents_controller_protocol-p.html#a0c47651e13018e6af244b158890fc4da">&lt;IXCLIncidentsControllerProtocol&gt;</a>
@@ -327,8 +336,8 @@ $(document).ready(function(){initNavTree('functions_r.html','');});
 <li>requiredRouteOptionsOutputFields
 : <a class="el" href="protocol_i_x_c_l_route_update_subscriber_01-p.html#a99956cbcd2c2cdc1923f148d208de924">&lt;IXCLRouteUpdateSubscriber &gt;</a>
 </li>
-<li>reservability
-: <a class="el" href="interface_i_x_c_l_parking_lot_current_capacity.html#aa2e5667e24ecfc8662b30707d4ec955c">IXCLParkingLotCurrentCapacity</a>
+<li>reservations
+: <a class="el" href="interface_i_x_c_l_parking_lot.html#a331c9017ca59f0d009a285cd7cb9bfad">IXCLParkingLot</a>
 </li>
 <li>resetLocalUserTokenStore
 : <a class="el" href="interface_i_x_c_l_user_token.html#a23026bf1f88b6ee308d5a6c36843747a">IXCLUserToken</a>
@@ -351,8 +360,20 @@ $(document).ready(function(){initNavTree('functions_r.html','');});
 <li>reverseGeocodeLocation:completion:
 : <a class="el" href="protocol_i_x_c_l_geocode_controller_protocol-p.html#a6e941419fcdc1fdeff5e3a308ad02897">&lt;IXCLGeocodeControllerProtocol&gt;</a>
 </li>
+<li>review
+: <a class="el" href="interface_i_x_c_l_parking_lot_review.html#ad68d7c35496bfb871ce19d0f921e07cc">IXCLParkingLotReview</a>
+</li>
+<li>reviewCount
+: <a class="el" href="interface_i_x_c_l_parking_lot.html#a19d14850a797e0a50987585f77106e9f">IXCLParkingLot</a>
+</li>
 <li>reviewIncidentWithOptions:completion:
 : <a class="el" href="protocol_i_x_c_l_incidents_controller_protocol-p.html#ab6e523cf08fe9314567cb095076ef566">&lt;IXCLIncidentsControllerProtocol&gt;</a>
+</li>
+<li>reviews
+: <a class="el" href="interface_i_x_c_l_parking_lot.html#a3257373e2d094ae402bfae7d3ad00b7c">IXCLParkingLot</a>
+</li>
+<li>reviewScore
+: <a class="el" href="interface_i_x_c_l_parking_lot.html#a663f8c40a56606993abc4e8f5f84df90">IXCLParkingLot</a>
 </li>
 <li>reviewState
 : <a class="el" href="interface_i_x_c_l_incident_review_options.html#a139c0f0ea83c0087ec5c6bdfc90fc5e0">IXCLIncidentReviewOptions</a>
@@ -444,7 +465,7 @@ $(document).ready(function(){initNavTree('functions_r.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Sep 12 2017 15:08:18 for iOS INRIX Mobile SDK by
+    <li class="footer">Generated on Thu Jan 4 2018 14:49:31 for iOS INRIX Mobile SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

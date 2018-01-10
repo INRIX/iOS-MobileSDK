@@ -9,5 +9,6 @@ var searchData=
   ['bounds',['bounds',['../interface_i_x_c_l_point_quad_tree.html#a6eca610631b9c5a5aa703cc8a4725d6c',1,'IXCLPointQuadTree::bounds()'],['../interface_i_x_c_l_point_quad_tree_node.html#ae2180e43c6800ba0c22f8ee8f65aaa08',1,'IXCLPointQuadTreeNode::bounds()']]],
   ['brakes',['brakes',['../interface_i_x_c_l_vehicle_state_measurement.html#af9d2b00c8039fae600c2e7347de5b79e',1,'IXCLVehicleStateMeasurement']]],
   ['brand',['brand',['../interface_i_x_c_l_gas_station.html#a6e66d5f1e6721772500a059bf994ed34',1,'IXCLGasStation']]],
-  ['bucket',['bucket',['../interface_i_x_c_l_traffic_quality.html#a775937947072e679c89b53cbcac718c3',1,'IXCLTrafficQuality']]]
+  ['bucket',['bucket',['../interface_i_x_c_l_traffic_quality.html#a775937947072e679c89b53cbcac718c3',1,'IXCLTrafficQuality']]],
+  ['buildingaddress',['buildingAddress',['../interface_i_x_c_l_parking_lot.html#a79119bfad9e247487929d839d405fefe',1,'IXCLParkingLot']]]
 ];

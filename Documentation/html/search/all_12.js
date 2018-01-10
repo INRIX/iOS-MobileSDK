@@ -6,11 +6,11 @@ var searchData=
   ['tcsb',['tcsb',['../interface_i_x_c_l_vehicle_state_measurement.html#ad5d713e41390f85af50048048f225505',1,'IXCLVehicleStateMeasurement']]],
   ['tcse',['tcse',['../interface_i_x_c_l_vehicle_state_measurement.html#a60ed6718e0df421471dd6536f5da3a3a',1,'IXCLVehicleStateMeasurement']]],
   ['templateid',['templateId',['../interface_i_x_c_l_pre_drive_push_notification.html#a72d38ea20c10e4e4bb952a8d3a460939',1,'IXCLPreDrivePushNotification']]],
-  ['tendency',['tendency',['../interface_i_x_c_l_parking_lot_current_capacity.html#acd465a2b52135dab6514310f6abd8a24',1,'IXCLParkingLotCurrentCapacity']]],
   ['terms',['terms',['../interface_i_x_c_l_search_autocomplete_match.html#a1264f2dc021ea2739c6e5897d0f823d4',1,'IXCLSearchAutocompleteMatch']]],
   ['text',['text',['../interface_i_x_c_l_incident_description.html#a32b85e0bbda58fc8aef812a72281c999',1,'IXCLIncidentDescription::text()'],['../interface_i_x_c_l_route_summary.html#a1f37b0ad5df005f13bdb0740b4077366',1,'IXCLRouteSummary::text()'],['../interface_i_x_c_l_traffic_quality.html#ab7ade5def586fd87d02361e5d4154c7d',1,'IXCLTrafficQuality::text()']]],
   ['textfromroads',['textFromRoads',['../interface_i_x_c_l_route_summary.html#a308399354410de857f9d290aa69413f2',1,'IXCLRouteSummary']]],
   ['throttle',['throttle',['../interface_i_x_c_l_vehicle_state_measurement.html#aa2b6d132b03434ea6f966c4216f360c3',1,'IXCLVehicleStateMeasurement']]],
+  ['thumbnail',['thumbnail',['../interface_i_x_c_l_parking_lot_photo.html#a4f0046a63e5a000dbfd7c5b39878e003',1,'IXCLParkingLotPhoto']]],
   ['timeinterval',['timeInterval',['../interface_i_x_c_l_timer.html#a121a7514110316811ed900244504aa91',1,'IXCLTimer']]],
   ['timerblock',['timerBlock',['../interface_i_x_c_l_timer.html#a7f9c72b04764188b76b68cf27c9ff819',1,'IXCLTimer']]],
   ['timestamp',['timeStamp',['../interface_i_x_c_l_vehicle_state_measurement.html#a48e1665cea6db42905b0a8ef13e33a32',1,'IXCLVehicleStateMeasurement']]],
@@ -22,7 +22,6 @@ var searchData=
   ['topleftcorner',['topLeftCorner',['../interface_i_x_c_l_bounding_box.html#ad2aa1b28bd436d2a2b2e672c6b2291cb',1,'IXCLBoundingBox']]],
   ['toprightcorner',['topRightCorner',['../interface_i_x_c_l_bounding_box.html#afe02a03111f21b684ed0b19346ec9ff1',1,'IXCLBoundingBox']]],
   ['topusers',['topUsers',['../interface_i_x_c_l_leaderboard.html#af26f4a8f2547e5e64163abe3bb59cda7',1,'IXCLLeaderboard::topUsers()'],['../interface_i_x_c_l_leaderboard_options.html#a583a5d05cbd612dc644f90ee31d40d4d',1,'IXCLLeaderboardOptions::topUsers()']]],
-  ['tostreetname',['toStreetName',['../interface_i_x_c_l_parking_block.html#a04546f8eead8eeaa1c1c8a7adc2d371f',1,'IXCLParkingBlock']]],
   ['totalbytesdelivered',['totalBytesDelivered',['../interface_i_x_c_l_network_metric.html#a5ebeadeec8fc082a30697fee786e95d2',1,'IXCLNetworkMetric']]],
   ['totalbytesexpected',['totalBytesExpected',['../interface_i_x_c_l_network_metric.html#ab63a6f649cf0cc84ce7364e54f5edada',1,'IXCLNetworkMetric']]],
   ['totaldistance',['totalDistance',['../interface_i_x_c_l_route.html#aa96fd84d18d2636fabb012a61c95ac21',1,'IXCLRoute']]],
@@ -49,5 +48,5 @@ var searchData=
   ['triptype',['tripType',['../interface_i_x_c_l_itinerary_entry.html#affd955cc252a1337aa51d8468e2410a7',1,'IXCLItineraryEntry']]],
   ['trustlevel',['trustLevel',['../interface_i_x_c_l_incident_contributor.html#a1089f2d6e89a8e170b8ea9948d514714',1,'IXCLIncidentContributor']]],
   ['ttsdescription',['ttsDescription',['../interface_i_x_c_l_x_d_incident.html#a6fb61a3b90d57ed262b5b39ba420233f',1,'IXCLXDIncident']]],
-  ['type',['type',['../interface_i_x_c_l_push_token.html#ad4e44dce40531a32df29c7a774a08902',1,'IXCLPushToken::type()'],['../interface_i_x_c_l_fuel_product.html#ac78860b433ca7e56947ce0fe08613fa3',1,'IXCLFuelProduct::type()'],['../interface_i_x_c_l_incident.html#ad6832b57c2bb2ae6759a78058fdc3570',1,'IXCLIncident::type()'],['../interface_i_x_c_l_segment.html#a9911428c59f3384a9daa62793dbd8efc',1,'IXCLSegment::type()'],['../interface_i_x_c_l_x_d_incident_message.html#affdbc3eb1b79c00fdba517275a492e90',1,'IXCLXDIncidentMessage::type()'],['../interface_i_x_c_l_sharing_address.html#ab576db8988bb0ded3814927e37605a5b',1,'IXCLSharingAddress::type()'],['../interface_i_x_c_l_parking_block_restriction.html#a8406b7236629ba6f3a5adfa74ca0b7e8',1,'IXCLParkingBlockRestriction::type()'],['../interface_i_x_c_l_search_result.html#aecf962437d89f2d6677596679aa07470',1,'IXCLSearchResult::type()']]]
+  ['type',['type',['../interface_i_x_c_l_push_token.html#ad4e44dce40531a32df29c7a774a08902',1,'IXCLPushToken::type()'],['../interface_i_x_c_l_fuel_product.html#ac78860b433ca7e56947ce0fe08613fa3',1,'IXCLFuelProduct::type()'],['../interface_i_x_c_l_incident.html#ad6832b57c2bb2ae6759a78058fdc3570',1,'IXCLIncident::type()'],['../interface_i_x_c_l_segment.html#a9911428c59f3384a9daa62793dbd8efc',1,'IXCLSegment::type()'],['../interface_i_x_c_l_x_d_incident_message.html#affdbc3eb1b79c00fdba517275a492e90',1,'IXCLXDIncidentMessage::type()'],['../interface_i_x_c_l_sharing_address.html#ab576db8988bb0ded3814927e37605a5b',1,'IXCLSharingAddress::type()'],['../interface_i_x_c_l_parking_block_amenity.html#a60b210c6deca37796792e9496925dbd3',1,'IXCLParkingBlockAmenity::type()'],['../interface_i_x_c_l_parking_amenity.html#a0e38f3a51794031627bba9e92b40406c',1,'IXCLParkingAmenity::type()'],['../interface_i_x_c_l_parking_lot.html#a015c274722a1dc8c30cd747562d3186c',1,'IXCLParkingLot::type()'],['../interface_i_x_c_l_search_result.html#aecf962437d89f2d6677596679aa07470',1,'IXCLSearchResult::type()']]]
 ];

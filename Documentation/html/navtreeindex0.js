@@ -41,13 +41,12 @@ var NAVTREEINDEX0 =
 "_traffic_tiles.html":[2,14],
 "_vehicle_state.html":[2,15],
 "annotated.html":[5,0],
-"category_n_s_data_07_i_x_c_l_base64_08.html":[5,0,197],
-"category_n_s_exception_07_i_x_c_l_08.html":[5,0,198],
-"category_n_s_string_07_i_x_c_l_base64_08.html":[5,0,199],
-"class_i_x_c_l_parking_lot_gate.html":[5,0,95],
-"class_i_x_c_l_parking_lot_opening_hours.html":[5,0,96],
-"class_i_x_c_l_parking_lot_pricing_payment.html":[5,0,97],
-"class_i_x_c_l_photo.html":[5,0,102],
+"category_n_s_data_07_i_x_c_l_base64_08.html":[5,0,201],
+"category_n_s_exception_07_i_x_c_l_08.html":[5,0,202],
+"category_n_s_string_07_i_x_c_l_base64_08.html":[5,0,203],
+"class_i_x_c_l_parking_lot_gate.html":[5,0,97],
+"class_i_x_c_l_parking_lot_pricing_payment.html":[5,0,100],
+"class_i_x_c_l_photo.html":[5,0,106],
 "classes.html":[5,1],
 "functions.html":[5,3,0],
 "functions.html":[5,3,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX0 =
 "interface_i_x_c_l_dangerous_slowdown.html#a20307c1232dc94cf0ef3b57175eb06d4":[5,0,24,5],
 "interface_i_x_c_l_dangerous_slowdown.html#a353f37d6158d113c05e62c37522d4a25":[5,0,24,6],
 "interface_i_x_c_l_dangerous_slowdown.html#a43d80ebddf52b95d67e7a38fc22322d9":[5,0,24,1],
-"interface_i_x_c_l_dangerous_slowdown.html#a4cf5695dd46f5771b7e9ac1fcc1ca990":[5,0,24,9]
+"interface_i_x_c_l_dangerous_slowdown.html#a4cf5695dd46f5771b7e9ac1fcc1ca990":[5,0,24,9],
+"interface_i_x_c_l_dangerous_slowdown.html#a608d87c992f407e5a2ac51ae58f60123":[5,0,24,4]
 };

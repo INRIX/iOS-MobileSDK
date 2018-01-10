@@ -10,7 +10,7 @@ var searchData=
   ['coordinatefrompoint_3a',['coordinateFromPoint:',['../interface_i_x_c_l_spherical_mercator_projection.html#a52bc6a03f6dacdbe833acd76aabe7c54',1,'IXCLSphericalMercatorProjection']]],
   ['createsavedlocationwithoptions_3acompletion_3a',['createSavedLocationWithOptions:completion:',['../protocol_i_x_c_l_locations_controller_protocol-p.html#a65f9927951708d251486badd59c7a834',1,'IXCLLocationsControllerProtocol-p']]],
   ['criteriamaskasstring',['criteriaMaskAsString',['../interface_i_x_c_l_routes_from_points_options.html#af28100602775a81132e7a74233f838fe',1,'IXCLRoutesFromPointsOptions']]],
-  ['currentcapacityfromdictionary_3a',['currentCapacityFromDictionary:',['../interface_i_x_c_l_parking_lot_current_capacity.html#a0de56145f5e757786bb1639d39636bc6',1,'IXCLParkingLotCurrentCapacity']]],
+  ['currentcapacityfromdictionary_3atotalspaces_3a',['currentCapacityFromDictionary:totalSpaces:',['../interface_i_x_c_l_parking_lot_current_capacity.html#a6f53176d28bc506510d4004a341d7354',1,'IXCLParkingLotCurrentCapacity']]],
   ['currentorlastknowncoordinate',['currentOrLastKnownCoordinate',['../protocol_i_x_c_l_current_location_manager_protocol-p.html#a1f608c3d742b62b56d27a4ed4da56722',1,'IXCLCurrentLocationManagerProtocol-p']]],
   ['currentorlastknownlocation',['currentOrLastKnownLocation',['../protocol_i_x_c_l_current_location_manager_protocol-p.html#a1ea8c27d4b736c5bbfda2bdbfe7f1e47',1,'IXCLCurrentLocationManagerProtocol-p']]]
 ];

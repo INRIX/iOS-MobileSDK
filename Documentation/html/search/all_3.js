@@ -3,7 +3,7 @@ var searchData=
   ['dangerous_20slowdowns',['Dangerous Slowdowns',['../_dangerous_slowdowns.html',1,'Services']]],
   ['dangerousslowdownscontroller',['dangerousSlowdownsController',['../interface_i_x_c_l_core.html#af3298749f44778ae6af7253b821071a2',1,'IXCLCore']]],
   ['data_20models',['Data Models',['../_data_model.html',1,'']]],
-  ['date',['date',['../interface_i_x_c_l_trip_schedule.html#a41160adb51b5340ad8b4f36a39dcf012',1,'IXCLTripSchedule::date()'],['../interface_i_x_c_l_trip_schedule_date.html#a476e38ae5963aba61f8f67b09891bed9',1,'IXCLTripScheduleDate::date()']]],
+  ['date',['date',['../interface_i_x_c_l_parking_lot_review.html#a138c1fb679625819a74e0ac44f6e0d62',1,'IXCLParkingLotReview::date()'],['../interface_i_x_c_l_trip_schedule.html#a41160adb51b5340ad8b4f36a39dcf012',1,'IXCLTripSchedule::date()'],['../interface_i_x_c_l_trip_schedule_date.html#a476e38ae5963aba61f8f67b09891bed9',1,'IXCLTripScheduleDate::date()']]],
   ['datetime',['dateTime',['../interface_i_x_c_l_itinerary_entry.html#a82886ecf8fa203d8ccebeabfbcae9f84',1,'IXCLItineraryEntry::dateTime()'],['../interface_i_x_c_l_learned_trip.html#a2108c1abb9c97f706f73f969e0c112e8',1,'IXCLLearnedTrip::dateTime()']]],
   ['dayconditionallikelihoods',['dayConditionalLikelihoods',['../interface_i_x_c_l_learned_location.html#a3f00c7bfbf34913f03276605ab7d7ef7',1,'IXCLLearnedLocation']]],
   ['decodedpoints',['decodedPoints',['../interface_i_x_c_l_speed_bucket.html#aff086ba192acd6273da9e6eb3167a353',1,'IXCLSpeedBucket']]],
@@ -33,6 +33,6 @@ var searchData=
   ['drive_2dtime_20alerts',['Drive-Time Alerts',['../_drive_time_alerts.html',1,'Services']]],
   ['drivetimealertscontroller',['driveTimeAlertsController',['../interface_i_x_c_l_core.html#a5e8e6687cb6f4a3d166f0591af666e49',1,'IXCLCore']]],
   ['drivetimealertsstate',['driveTimeAlertsState',['../protocol_i_x_c_l_drive_time_alerts_controller_protocol-p.html#af4e8e83634fda3c8b3e2002eacb0af1a',1,'IXCLDriveTimeAlertsControllerProtocol-p']]],
-  ['duration',['duration',['../interface_i_x_c_l_parking_block_pricing_payment.html#a32984ad36474ea109cf875f19eec46cc',1,'IXCLParkingBlockPricingPayment::duration()'],['../interface_i_x_c_l_parking_block_restriction.html#aaade8d04131cb683ed949a46d1d5095c',1,'IXCLParkingBlockRestriction::duration()'],['../interface_i_x_c_l_calendar_trip.html#a62e5aec35e94f5886b182b8fe390b23e',1,'IXCLCalendarTrip::duration()'],['../interface_i_x_c_l_trip_point.html#aaeab6d499691afca827b0823bb2c60ef',1,'IXCLTripPoint::duration()']]],
-  ['durationunits',['durationUnits',['../interface_i_x_c_l_parking_block_pricing_payment.html#ac04587fc9677350c641f3e7182fbf142',1,'IXCLParkingBlockPricingPayment::durationUnits()'],['../interface_i_x_c_l_parking_block_restriction.html#ad305222c621a01fa46a26b4704614076',1,'IXCLParkingBlockRestriction::durationUnits()']]]
+  ['duration',['duration',['../interface_i_x_c_l_parking_block_pricing_payment.html#a32984ad36474ea109cf875f19eec46cc',1,'IXCLParkingBlockPricingPayment::duration()'],['../interface_i_x_c_l_calendar_trip.html#a62e5aec35e94f5886b182b8fe390b23e',1,'IXCLCalendarTrip::duration()'],['../interface_i_x_c_l_trip_point.html#aaeab6d499691afca827b0823bb2c60ef',1,'IXCLTripPoint::duration()']]],
+  ['durationunits',['durationUnits',['../interface_i_x_c_l_parking_block_pricing_payment.html#ac04587fc9677350c641f3e7182fbf142',1,'IXCLParkingBlockPricingPayment']]]
 ];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.13"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>iOS INRIX Mobile SDK: IXCLParkingBlockRestriction Class Reference</title>
+<title>iOS INRIX Mobile SDK: IXCLParkingCalculatedRate Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,7 +29,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">iOS INRIX Mobile SDK
-   &#160;<span id="projectnumber">6.0</span>
+   &#160;<span id="projectnumber">7.1.0</span>
    </div>
    <div id="projectbrief">INRIX Client Library for iOS</div>
   </td>
@@ -63,7 +63,7 @@ $(function() {
   </div>
 </div>
 <script type="text/javascript">
-$(document).ready(function(){initNavTree('interface_i_x_c_l_parking_block_restriction.html','');});
+$(document).ready(function(){initNavTree('interface_i_x_c_l_parking_calculated_rate.html','');});
 </script>
 <div id="doc-content">
 <!-- window showing the filter options -->
@@ -83,43 +83,43 @@ $(document).ready(function(){initNavTree('interface_i_x_c_l_parking_block_restri
 <div class="header">
   <div class="summary">
 <a href="#properties">Properties</a> &#124;
-<a href="interface_i_x_c_l_parking_block_restriction-members.html">List of all members</a>  </div>
+<a href="interface_i_x_c_l_parking_calculated_rate-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">IXCLParkingBlockRestriction Class Reference</div>  </div>
+<div class="title">IXCLParkingCalculatedRate Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 
-<p>Model object which respresents restrictions in an on-street parking block.  
- <a href="interface_i_x_c_l_parking_block_restriction.html#details">More...</a></p>
+<p>Model object which respresents the calculated rate information for a parking object.  
+ <a href="interface_i_x_c_l_parking_calculated_rate.html#details">More...</a></p>
 
-<p><code>#import &lt;<a class="el" href="_i_x_c_l_parking_block_restriction_8h_source.html">IXCLParkingBlockRestriction.h</a>&gt;</code></p>
+<p><code>#import &lt;<a class="el" href="_i_x_c_l_parking_calculated_rate_8h_source.html">IXCLParkingCalculatedRate.h</a>&gt;</code></p>
 
-<p>Inherits &lt;NSObject&gt;, and &lt;NSCopying&gt;.</p>
+<p>Inherits &lt;NSObject&gt;.</p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="properties"></a>
 Properties</h2></td></tr>
-<tr class="memitem:ad305222c621a01fa46a26b4704614076"><td class="memItemLeft" align="right" valign="top"><a id="ad305222c621a01fa46a26b4704614076"></a>
-IXCLParkingSectionDurationUnits&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_i_x_c_l_parking_block_restriction.html#ad305222c621a01fa46a26b4704614076">durationUnits</a></td></tr>
-<tr class="memdesc:ad305222c621a01fa46a26b4704614076"><td class="mdescLeft">&#160;</td><td class="mdescRight">The duration units of a parking restriction. <br /></td></tr>
-<tr class="separator:ad305222c621a01fa46a26b4704614076"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaade8d04131cb683ed949a46d1d5095c"><td class="memItemLeft" align="right" valign="top"><a id="aaade8d04131cb683ed949a46d1d5095c"></a>
-NSInteger&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_i_x_c_l_parking_block_restriction.html#aaade8d04131cb683ed949a46d1d5095c">duration</a></td></tr>
-<tr class="memdesc:aaade8d04131cb683ed949a46d1d5095c"><td class="mdescLeft">&#160;</td><td class="mdescRight">The duration of parking restriction specified in units from durationUnits property. <br /></td></tr>
-<tr class="separator:aaade8d04131cb683ed949a46d1d5095c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8406b7236629ba6f3a5adfa74ca0b7e8"><td class="memItemLeft" align="right" valign="top"><a id="a8406b7236629ba6f3a5adfa74ca0b7e8"></a>
-NSString *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_i_x_c_l_parking_block_restriction.html#a8406b7236629ba6f3a5adfa74ca0b7e8">type</a></td></tr>
-<tr class="memdesc:a8406b7236629ba6f3a5adfa74ca0b7e8"><td class="mdescLeft">&#160;</td><td class="mdescRight">The type of a parking restriction. <br /></td></tr>
-<tr class="separator:a8406b7236629ba6f3a5adfa74ca0b7e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e149be45e308f26cfb9d6f84f0515aa"><td class="memItemLeft" align="right" valign="top"><a id="a1e149be45e308f26cfb9d6f84f0515aa"></a>
+NSNumber *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_i_x_c_l_parking_calculated_rate.html#a1e149be45e308f26cfb9d6f84f0515aa">rateCost</a></td></tr>
+<tr class="memdesc:a1e149be45e308f26cfb9d6f84f0515aa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Numeric value for the rate. <br /></td></tr>
+<tr class="separator:a1e149be45e308f26cfb9d6f84f0515aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af6c1c5f3be5d4a7226b46d19bdf7bf39"><td class="memItemLeft" align="right" valign="top"><a id="af6c1c5f3be5d4a7226b46d19bdf7bf39"></a>
+NSString *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_i_x_c_l_parking_calculated_rate.html#af6c1c5f3be5d4a7226b46d19bdf7bf39">rateType</a></td></tr>
+<tr class="memdesc:af6c1c5f3be5d4a7226b46d19bdf7bf39"><td class="mdescLeft">&#160;</td><td class="mdescRight">String representing the type of rate. <br /></td></tr>
+<tr class="separator:af6c1c5f3be5d4a7226b46d19bdf7bf39"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1912144824834f45cece8df5cc5f27c4"><td class="memItemLeft" align="right" valign="top"><a id="a1912144824834f45cece8df5cc5f27c4"></a>
+NSString *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_i_x_c_l_parking_calculated_rate.html#a1912144824834f45cece8df5cc5f27c4">quotedDuration</a></td></tr>
+<tr class="memdesc:a1912144824834f45cece8df5cc5f27c4"><td class="mdescLeft">&#160;</td><td class="mdescRight">String representing the duration that the rate is for. <br /></td></tr>
+<tr class="separator:a1912144824834f45cece8df5cc5f27c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Model object which respresents restrictions in an on-street parking block. </p>
+<div class="textblock"><p>Model object which respresents the calculated rate information for a parking object. </p>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="interface_i_x_c_l_parking_block_restriction.html">IXCLParkingBlockRestriction</a></li>
-    <li class="footer">Generated on Tue Sep 12 2017 15:08:18 for iOS INRIX Mobile SDK by
+    <li class="navelem"><a class="el" href="interface_i_x_c_l_parking_calculated_rate.html">IXCLParkingCalculatedRate</a></li>
+    <li class="footer">Generated on Thu Jan 4 2018 14:49:31 for iOS INRIX Mobile SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

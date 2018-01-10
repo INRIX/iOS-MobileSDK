@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['id',['id',['../interface_i_x_c_l_parking_block_amenity.html#aeb68802bc0b98b25cedd0110ece5e147',1,'IXCLParkingBlockAmenity::id()'],['../interface_i_x_c_l_parking_amenity.html#addb40245733f6bb3e407296a9c1239cc',1,'IXCLParkingAmenity::id()']]],
   ['imap',['imap',['../interface_i_x_c_l_vehicle_state_measurement.html#aa7f2a800c5263b63c2e76bd43370c3c7',1,'IXCLVehicleStateMeasurement']]],
   ['incident',['incident',['../interface_i_x_c_l_incident_delete_options.html#ae45cd67d96f48c969a1356193179f5c8',1,'IXCLIncidentDeleteOptions::incident()'],['../interface_i_x_c_l_incident_review_options.html#a5d614fd90c70d98fa596f37f2d382323',1,'IXCLIncidentReviewOptions::incident()']]],
   ['incidentdescription',['incidentDescription',['../interface_i_x_c_l_incident_report_options.html#adad62d5f0c0d53014faa3e3222278903',1,'IXCLIncidentReportOptions']]],
@@ -33,6 +34,7 @@ var searchData=
   ['isnetworkreachableviawifi',['isNetworkReachableViaWiFi',['../protocol_i_x_c_l_network_reachability_controller_protocol-p.html#a2e424820c7209be06b38c5c560e0ab4d',1,'IXCLNetworkReachabilityControllerProtocol-p']]],
   ['isnetworkreachableviawwan',['isNetworkReachableViaWWAN',['../protocol_i_x_c_l_network_reachability_controller_protocol-p.html#a56f8620704b607f2e72428d6da2f3da2',1,'IXCLNetworkReachabilityControllerProtocol-p']]],
   ['isnotificationenabled',['isNotificationEnabled',['../interface_i_x_c_l_itinerary_entry.html#ae9f20b08c4d6eca4b56a88ded2949db7',1,'IXCLItineraryEntry']]],
+  ['isopen',['isOpen',['../interface_i_x_c_l_parking_lot.html#a178eb1e7c844a02ba7f5ff910f24f8bd',1,'IXCLParkingLot']]],
   ['isplanned',['isPlanned',['../interface_i_x_c_l_x_d_incident_reoccurring_schedule.html#ad44dd2b28c329067e8dab011acacd792',1,'IXCLXDIncidentReoccurringSchedule']]],
   ['ispredrivenotificationenabled',['isPreDriveNotificationEnabled',['../interface_i_x_c_l_calendar_trip.html#ada5fa45f09900f3a30d51a0603958fad',1,'IXCLCalendarTrip']]],
   ['isrecurring',['isRecurring',['../interface_i_x_c_l_calendar_trip.html#a4ac90d91858c92cc51de50e8d2d8baf9',1,'IXCLCalendarTrip::isRecurring()'],['../interface_i_x_c_l_trip_schedule_date.html#a75a5f8c66e995e6eebe5a8db70103fd8',1,'IXCLTripScheduleDate::isRecurring()']]],
