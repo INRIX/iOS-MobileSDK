@@ -1,3 +1,26 @@
+/*
+@ @licstart  The following is the entire license notice for the
+JavaScript code in this file.
+
+Copyright (C) 1997-2017 by Dimitri van Heesch
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+@licend  The above is the entire license notice
+for the JavaScript code in this file
+*/
 var NAVTREE =
 [
   [ "iOS INRIX Mobile SDK", "index.html", [
@@ -39,11 +62,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_dangerous_slowdowns.html",
-"interface_i_x_c_l_dangerous_slowdown.html#ac7ecb726bffbafec0e4f70de7920db43",
-"interface_i_x_c_l_o_auth_info.html#a1cc262f91d90c98f0b63c7e84644c53e",
-"interface_i_x_c_l_search_autocomplete_match.html#aecde1ab3b1e10dee829a85b40e476bfb",
-"interface_i_x_c_l_x_d_incident_reoccurring_schedule.html#a66a4b38789cbb8dda9c750c9f025b997",
-"protocol_i_x_c_l_user_properties_controller_protocol-p.html#ac030382b9e4a9ddf54699a3c3797fbbb"
+"interface_i_x_c_l_dangerous_slowdowns_in_radius_options.html",
+"interface_i_x_c_l_parking_block.html#affb61b403276b264a4293e93240eb2e7",
+"interface_i_x_c_l_segment.html#a6198bc155c61b7bf40a05f3ac2afa48e",
+"protocol_i_x_c_l_auth_controller_protocol-p.html#aac6a381a3dad19b5776b13c63e270708"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

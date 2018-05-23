@@ -3,6 +3,9 @@ var hierarchy =
     [ "<InrixCore>", "protocol_inrix_core-p.html", null ],
     [ "IXCLAddress", "interface_i_x_c_l_address.html", null ],
     [ "IXCLAggregateMapPoint", "interface_i_x_c_l_aggregate_map_point.html", null ],
+    [ "<IXCLAnonymousVehicleControllerProtocol>", "protocol_i_x_c_l_anonymous_vehicle_controller_protocol-p.html", [
+      [ "IXCLAnonymousVehicleController", "interface_i_x_c_l_anonymous_vehicle_controller.html", null ]
+    ] ],
     [ "<IXCLAuthControllerProtocol>", "protocol_i_x_c_l_auth_controller_protocol-p.html", [
       [ "IXCLAuthController", "interface_i_x_c_l_auth_controller.html", null ]
     ] ],
@@ -52,7 +55,6 @@ var hierarchy =
       [ "IXCLTrafficTileOptions", "interface_i_x_c_l_traffic_tile_options.html", null ],
       [ "IXCLTravelTimesOptions", "interface_i_x_c_l_travel_times_options.html", null ],
       [ "IXCLTripsRequestOptions", "interface_i_x_c_l_trips_request_options.html", null ],
-      [ "IXCLUpdateNotificationOptions", "interface_i_x_c_l_update_notification_options.html", null ],
       [ "IXCLUpdateUserOptions", "interface_i_x_c_l_update_user_options.html", null ],
       [ "IXCLUserAccountOptions", "interface_i_x_c_l_user_account_options.html", [
         [ "IXCLUserAuthOptions", "interface_i_x_c_l_user_auth_options.html", null ]
@@ -131,7 +133,6 @@ var hierarchy =
     [ "IXCLLocationCreateOptions", "interface_i_x_c_l_location_create_options.html", null ],
     [ "IXCLLocationUpdateOptions", "interface_i_x_c_l_location_update_options.html", null ],
     [ "IXCLLogger", "interface_i_x_c_l_logger.html", null ],
-    [ "<IXCLMobileStatControllerProtocol>", "protocol_i_x_c_l_mobile_stat_controller_protocol-p.html", null ],
     [ "IXCLNetworkMetric", "interface_i_x_c_l_network_metric.html", null ],
     [ "<IXCLNetworkReachabilityControllerProtocol>", "protocol_i_x_c_l_network_reachability_controller_protocol-p.html", [
       [ "IXCLNetworkReachabilityController", "interface_i_x_c_l_network_reachability_controller.html", null ]
@@ -158,7 +159,6 @@ var hierarchy =
     [ "IXCLParkingLotsInBoxOptions", "interface_i_x_c_l_parking_lots_in_box_options.html", null ],
     [ "IXCLParkingLotsInRadiusOptions", "interface_i_x_c_l_parking_lots_in_radius_options.html", null ],
     [ "IXCLPhoto", "class_i_x_c_l_photo.html", null ],
-    [ "<IXCLPHSControllerProtocol>", "protocol_i_x_c_l_p_h_s_controller_protocol-p.html", null ],
     [ "IXCLPointQuadTree", "interface_i_x_c_l_point_quad_tree.html", null ],
     [ "<IXCLPointQuadTreeItem>", "protocol_i_x_c_l_point_quad_tree_item-p.html", [
       [ "IXCLRoutePointQuadTreeItem", "interface_i_x_c_l_route_point_quad_tree_item.html", null ]
@@ -205,6 +205,7 @@ var hierarchy =
     ] ],
     [ "IXCLSphericalMercatorProjection", "interface_i_x_c_l_spherical_mercator_projection.html", null ],
     [ "IXCLTimer", "interface_i_x_c_l_timer.html", null ],
+    [ "<IXCLTrafficColorControllerProtocol>", "protocol_i_x_c_l_traffic_color_controller_protocol-p.html", null ],
     [ "IXCLTrafficQuality", "interface_i_x_c_l_traffic_quality.html", null ],
     [ "<IXCLTrafficQualityControllerProtocol>", "protocol_i_x_c_l_traffic_quality_controller_protocol-p.html", [
       [ "IXCLTrafficQualityController", "interface_i_x_c_l_traffic_quality_controller.html", null ]
@@ -214,20 +215,18 @@ var hierarchy =
     ] ],
     [ "IXCLTravelTime", "interface_i_x_c_l_travel_time.html", null ],
     [ "IXCLTrip", "interface_i_x_c_l_trip.html", [
-      [ "IXCLCalendarTrip", "interface_i_x_c_l_calendar_trip.html", null ],
-      [ "IXCLLearnedTrip", "interface_i_x_c_l_learned_trip.html", null ],
       [ "IXCLSavedTrip", "interface_i_x_c_l_saved_trip.html", null ]
     ] ],
     [ "<IXCLTripControllerProtocol>", "protocol_i_x_c_l_trip_controller_protocol-p.html", [
       [ "IXCLTripController", "interface_i_x_c_l_trip_controller.html", null ]
     ] ],
-    [ "<IXCLTripLibraryControllerProtocol>", "protocol_i_x_c_l_trip_library_controller_protocol-p.html", null ],
     [ "IXCLTripPoint", "interface_i_x_c_l_trip_point.html", null ],
     [ "IXCLTripSchedule", "interface_i_x_c_l_trip_schedule.html", null ],
     [ "IXCLTripScheduleDate", "interface_i_x_c_l_trip_schedule_date.html", null ],
     [ "IXCLTripScheduleNotification", "interface_i_x_c_l_trip_schedule_notification.html", null ],
     [ "<IXCLTripTrackingControllerProtocol>", "protocol_i_x_c_l_trip_tracking_controller_protocol-p.html", null ],
     [ "IXCLUserAccount", "interface_i_x_c_l_user_account.html", null ],
+    [ "<IXCLUserLocationControllerProtocol>", "protocol_i_x_c_l_user_location_controller_protocol-p.html", null ],
     [ "<IXCLUserPropertiesControllerProtocol>", "protocol_i_x_c_l_user_properties_controller_protocol-p.html", [
       [ "IXCLUserPropertiesController", "interface_i_x_c_l_user_properties_controller.html", null ]
     ] ],

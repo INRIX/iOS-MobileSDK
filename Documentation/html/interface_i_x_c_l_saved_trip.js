@@ -1,6 +1,5 @@
 var interface_i_x_c_l_saved_trip =
 [
-    [ "initWithLearnedTrip:", "interface_i_x_c_l_saved_trip.html#ab62049d7cf2ccb08378841f5cd086d03", null ],
     [ "initWithPointsAndSchedule:destination:waypoints:schedule:", "interface_i_x_c_l_saved_trip.html#aced7df52c9000708e104734ccc2d25a8", null ],
     [ "associatedContacts", "interface_i_x_c_l_saved_trip.html#aba6112b7cb0256e048e5aadc56a337b2", null ],
     [ "criteriaMask", "interface_i_x_c_l_saved_trip.html#abab625abcb8b7de11b0a49ffc4b96c66", null ],

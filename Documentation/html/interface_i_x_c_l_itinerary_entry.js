@@ -1,6 +1,5 @@
 var interface_i_x_c_l_itinerary_entry =
 [
-    [ "associatedTrips", "interface_i_x_c_l_itinerary_entry.html#a747e9e108807e14381a5a4606435cfed", null ],
     [ "dateTime", "interface_i_x_c_l_itinerary_entry.html#a82886ecf8fa203d8ccebeabfbcae9f84", null ],
     [ "destination", "interface_i_x_c_l_itinerary_entry.html#a3a4c78344b479f4adecb8a446f05eed8", null ],
     [ "expectedOrigins", "interface_i_x_c_l_itinerary_entry.html#a62ef870d02d46798fbfe492c0ec97f83", null ],

@@ -24,16 +24,13 @@ var searchData=
   ['start',['start',['../interface_i_x_c_l_timer.html#a1d09be851f880dcd709e900ba331e2d4',1,'IXCLTimer']]],
   ['startalertingonincidentswithoptions_3a',['startAlertingOnIncidentsWithOptions:',['../protocol_i_x_c_l_drive_time_alerts_controller_protocol-p.html#a9822a5160c51bb12b062553861e7dd4a',1,'IXCLDriveTimeAlertsControllerProtocol-p']]],
   ['startrequestingroutes',['startRequestingRoutes',['../protocol_i_x_c_l_route_update_controller_protocol-p.html#a14f088b4deadaca276c5aa15f02d4188',1,'IXCLRouteUpdateControllerProtocol-p']]],
-  ['starttracking',['startTracking',['../protocol_i_x_c_l_mobile_stat_controller_protocol-p.html#a562a876dad44f392f185f26e2f0a825d',1,'IXCLMobileStatControllerProtocol-p::startTracking()'],['../protocol_i_x_c_l_p_h_s_controller_protocol-p.html#a4fba9974d6a68315fe3479492f684787',1,'IXCLPHSControllerProtocol-p::startTracking()']]],
   ['startupdatinglocation',['startUpdatingLocation',['../protocol_i_x_c_l_current_location_manager_protocol-p.html#a377278bee248222a984f2f61f3862495',1,'IXCLCurrentLocationManagerProtocol-p']]],
-  ['startupdatinguserlocation',['startUpdatingUserLocation',['../protocol_i_x_c_l_trip_library_controller_protocol-p.html#a607eb646e6fff3349d404c4b71ecf8a8',1,'IXCLTripLibraryControllerProtocol-p']]],
-  ['startwrongtrafficcolormodetracking',['startWrongTrafficColorModeTracking',['../protocol_i_x_c_l_p_h_s_controller_protocol-p.html#a72e543467708602ef9f0ebf262a9bd8f',1,'IXCLPHSControllerProtocol-p']]],
+  ['startupdatinguserlocation',['startUpdatingUserLocation',['../protocol_i_x_c_l_user_location_controller_protocol-p.html#a99c3afee0b4f85e2ededf53f67c05338',1,'IXCLUserLocationControllerProtocol-p']]],
   ['stop',['stop',['../interface_i_x_c_l_timer.html#a8c0c69aa7ca12319fad9582e9b97b433',1,'IXCLTimer']]],
   ['stopalertingonincidents',['stopAlertingOnIncidents',['../protocol_i_x_c_l_drive_time_alerts_controller_protocol-p.html#a018f1aea49ca57ef97da40f0542aa435',1,'IXCLDriveTimeAlertsControllerProtocol-p']]],
   ['stoprequestingroutes',['stopRequestingRoutes',['../protocol_i_x_c_l_route_update_controller_protocol-p.html#af9c339dbf7541c4577529f656a9ce5c4',1,'IXCLRouteUpdateControllerProtocol-p']]],
-  ['stoptracking',['stopTracking',['../protocol_i_x_c_l_mobile_stat_controller_protocol-p.html#a3b7c94709e66428b391fa345520c14c4',1,'IXCLMobileStatControllerProtocol-p::stopTracking()'],['../protocol_i_x_c_l_p_h_s_controller_protocol-p.html#ad6388d9a6ce7a3ef4710802106469462',1,'IXCLPHSControllerProtocol-p::stopTracking()']]],
   ['stopupdatinglocation',['stopUpdatingLocation',['../protocol_i_x_c_l_current_location_manager_protocol-p.html#a1a5dd971f0509522e89e52603294df2e',1,'IXCLCurrentLocationManagerProtocol-p']]],
-  ['stopupdatinguserlocation',['stopUpdatingUserLocation',['../protocol_i_x_c_l_trip_library_controller_protocol-p.html#a5a72fdf2b776b6b80ad36b7f242c56e2',1,'IXCLTripLibraryControllerProtocol-p']]],
+  ['stopupdatinguserlocation',['stopUpdatingUserLocation',['../protocol_i_x_c_l_user_location_controller_protocol-p.html#af450d17b24bb09d615fa7d31cc4e0823',1,'IXCLUserLocationControllerProtocol-p']]],
   ['synclocations',['syncLocations',['../protocol_i_x_c_l_locations_controller_protocol-p.html#a58e115b2f26f5f47055b20122ea65b55',1,'IXCLLocationsControllerProtocol-p']]],
   ['synclocationsifneeded',['syncLocationsIfNeeded',['../protocol_i_x_c_l_locations_controller_protocol-p.html#a29a32857872e971ea4d9e6c5b4edc762',1,'IXCLLocationsControllerProtocol-p']]]
 ];

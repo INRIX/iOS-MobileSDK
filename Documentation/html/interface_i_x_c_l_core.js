@@ -30,6 +30,7 @@ var interface_i_x_c_l_core =
     [ "routeTravelTimesController", "interface_i_x_c_l_core.html#a14c65881bd76f17acc6c50f485aac957", null ],
     [ "searchController", "interface_i_x_c_l_core.html#a425454f1a26490adce7fb190be9767b6", null ],
     [ "speedLimitController", "interface_i_x_c_l_core.html#a0caf90465a80947790583ee71ee4bac7", null ],
+    [ "trafficColorController", "interface_i_x_c_l_core.html#a28d8aed5e820596bdc7d1047cedd4dd6", null ],
     [ "trafficQualityController", "interface_i_x_c_l_core.html#a36f6ae65e481aa1212939e2a2fcb7203", null ],
     [ "trafficTilesController", "interface_i_x_c_l_core.html#a7e96197215dab16d7d0cb44d1ae2718d", null ],
     [ "tripController", "interface_i_x_c_l_core.html#ab9ffbf9229c29d905f18853c3ed29286", null ],

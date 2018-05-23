@@ -2,7 +2,7 @@ var searchData=
 [
   ['dangerousslowdownscontroller',['dangerousSlowdownsController',['../interface_i_x_c_l_core.html#af3298749f44778ae6af7253b821071a2',1,'IXCLCore']]],
   ['date',['date',['../interface_i_x_c_l_parking_lot_review.html#a138c1fb679625819a74e0ac44f6e0d62',1,'IXCLParkingLotReview::date()'],['../interface_i_x_c_l_trip_schedule.html#a41160adb51b5340ad8b4f36a39dcf012',1,'IXCLTripSchedule::date()'],['../interface_i_x_c_l_trip_schedule_date.html#a476e38ae5963aba61f8f67b09891bed9',1,'IXCLTripScheduleDate::date()']]],
-  ['datetime',['dateTime',['../interface_i_x_c_l_itinerary_entry.html#a82886ecf8fa203d8ccebeabfbcae9f84',1,'IXCLItineraryEntry::dateTime()'],['../interface_i_x_c_l_learned_trip.html#a2108c1abb9c97f706f73f969e0c112e8',1,'IXCLLearnedTrip::dateTime()']]],
+  ['datetime',['dateTime',['../interface_i_x_c_l_itinerary_entry.html#a82886ecf8fa203d8ccebeabfbcae9f84',1,'IXCLItineraryEntry']]],
   ['dayconditionallikelihoods',['dayConditionalLikelihoods',['../interface_i_x_c_l_learned_location.html#a3f00c7bfbf34913f03276605ab7d7ef7',1,'IXCLLearnedLocation']]],
   ['decodedpoints',['decodedPoints',['../interface_i_x_c_l_speed_bucket.html#aff086ba192acd6273da9e6eb3167a353',1,'IXCLSpeedBucket']]],
   ['defaultcoordinates',['defaultCoordinates',['../interface_i_x_c_l_core_options.html#abfc0fb3d845885a61b051de7c2ac69b8',1,'IXCLCoreOptions']]],
@@ -13,7 +13,7 @@ var searchData=
   ['delayimpact',['delayImpact',['../interface_i_x_c_l_incident.html#a907ff3488c003a4cc92eebd8ed6c6585',1,'IXCLIncident']]],
   ['delaytime',['delayTime',['../interface_i_x_c_l_traffic_quality.html#a865cc480dde5a9f83828d2754b2759ad',1,'IXCLTrafficQuality']]],
   ['departuretime',['departureTime',['../interface_i_x_c_l_travel_time.html#ae64341aa4223fe94dc23a7ba4462050f',1,'IXCLTravelTime::departureTime()'],['../interface_i_x_c_l_routes_base_options.html#a26dca224c84662f2def5e83ffb9e4669',1,'IXCLRoutesBaseOptions::departureTime()'],['../interface_i_x_c_l_travel_times_options.html#af21e5ec1b6767a2151eb0a78442e88a3',1,'IXCLTravelTimesOptions::departureTime()']]],
-  ['destination',['destination',['../interface_i_x_c_l_calendar_trip.html#a470360cccc6b823798e29af7da4de91a',1,'IXCLCalendarTrip::destination()'],['../interface_i_x_c_l_itinerary_entry.html#a3a4c78344b479f4adecb8a446f05eed8',1,'IXCLItineraryEntry::destination()'],['../interface_i_x_c_l_learned_trip.html#a2e0cdd094f851d3d568b466d8f6be56d',1,'IXCLLearnedTrip::destination()'],['../interface_i_x_c_l_saved_trip.html#a8d6166885fb618cc6cb2b40b2f8b03eb',1,'IXCLSavedTrip::destination()']]],
+  ['destination',['destination',['../interface_i_x_c_l_itinerary_entry.html#a3a4c78344b479f4adecb8a446f05eed8',1,'IXCLItineraryEntry::destination()'],['../interface_i_x_c_l_saved_trip.html#a8d6166885fb618cc6cb2b40b2f8b03eb',1,'IXCLSavedTrip::destination()']]],
   ['destinationname',['destinationName',['../interface_i_x_c_l_pre_drive_push_notification.html#ab162072b0cbfd23030972d30bcdd0b8b',1,'IXCLPreDrivePushNotification']]],
   ['details',['details',['../interface_i_x_c_l_parking_block_payment_method.html#aebedf0bc95920dcb279361027224866c',1,'IXCLParkingBlockPaymentMethod']]],
   ['dewpoint',['dewPoint',['../interface_i_x_c_l_vehicle_state_measurement.html#a0a8e005a2b16bb5e9fc51f2df9c02785',1,'IXCLVehicleStateMeasurement']]],
@@ -25,6 +25,6 @@ var searchData=
   ['distanceunits',['distanceUnits',['../interface_i_x_c_l_gas_stations_in_radius_options.html#a89ff8087127e06c41c17c1eec93a1be4',1,'IXCLGasStationsInRadiusOptions::distanceUnits()'],['../interface_i_x_c_l_gas_stations_on_route_options.html#a25339f5314fbb22cfb1d1e72e72840f5',1,'IXCLGasStationsOnRouteOptions::distanceUnits()'],['../interface_i_x_c_l_incidents_in_radius_options.html#acc33cc346944cf44d134965426e62d40',1,'IXCLIncidentsInRadiusOptions::distanceUnits()'],['../interface_i_x_c_l_routes_base_options.html#aa7795aad2cbf8eed54a57c8ba262ed9c',1,'IXCLRoutesBaseOptions::distanceUnits()']]],
   ['drivetimealertscontroller',['driveTimeAlertsController',['../interface_i_x_c_l_core.html#a5e8e6687cb6f4a3d166f0591af666e49',1,'IXCLCore']]],
   ['drivetimealertsstate',['driveTimeAlertsState',['../protocol_i_x_c_l_drive_time_alerts_controller_protocol-p.html#af4e8e83634fda3c8b3e2002eacb0af1a',1,'IXCLDriveTimeAlertsControllerProtocol-p']]],
-  ['duration',['duration',['../interface_i_x_c_l_parking_block_pricing_payment.html#a32984ad36474ea109cf875f19eec46cc',1,'IXCLParkingBlockPricingPayment::duration()'],['../interface_i_x_c_l_calendar_trip.html#a62e5aec35e94f5886b182b8fe390b23e',1,'IXCLCalendarTrip::duration()'],['../interface_i_x_c_l_trip_point.html#aaeab6d499691afca827b0823bb2c60ef',1,'IXCLTripPoint::duration()']]],
+  ['duration',['duration',['../interface_i_x_c_l_parking_block_pricing_payment.html#a32984ad36474ea109cf875f19eec46cc',1,'IXCLParkingBlockPricingPayment::duration()'],['../interface_i_x_c_l_trip_point.html#aaeab6d499691afca827b0823bb2c60ef',1,'IXCLTripPoint::duration()']]],
   ['durationunits',['durationUnits',['../interface_i_x_c_l_parking_block_pricing_payment.html#ac04587fc9677350c641f3e7182fbf142',1,'IXCLParkingBlockPricingPayment']]]
 ];

@@ -11,9 +11,5 @@ var searchData=
   ['messages',['messages',['../interface_i_x_c_l_x_d_incident.html#af8b8fad2f36b0c680b48dafe2181045e',1,'IXCLXDIncident']]],
   ['metricvalue',['metricValue',['../interface_i_x_c_l_parking_amenity.html#a744f8d58bf8eacd986fed9ef229c8d8e',1,'IXCLParkingAmenity']]],
   ['milemarker',['mileMarker',['../interface_i_x_c_l_dangerous_slowdown_description.html#ab77cfb81ff780f5b06e38c34e3365815',1,'IXCLDangerousSlowdownDescription']]],
-  ['minroutedistanceinmiles',['minRouteDistanceInMiles',['../protocol_i_x_c_l_routes_controller_protocol-p.html#a9077f5438450bef46dedb8e8baf097b4',1,'IXCLRoutesControllerProtocol-p']]],
-  ['mobilestatcollectionenabled',['mobileStatCollectionEnabled',['../protocol_i_x_c_l_mobile_stat_controller_protocol-p.html#a869ab1add5251af26c368e48d14a4e7e',1,'IXCLMobileStatControllerProtocol-p']]],
-  ['mobilestatcollectortimeinterval',['mobileStatCollectorTimeInterval',['../protocol_i_x_c_l_mobile_stat_controller_protocol-p.html#a93269fae7b8bce74ed45e6d4d3ab8a69',1,'IXCLMobileStatControllerProtocol-p']]],
-  ['mobilestatexpirytimeinterval',['mobileStatExpiryTimeInterval',['../protocol_i_x_c_l_mobile_stat_controller_protocol-p.html#ad22d0580549cf45605729b6a0701db8b',1,'IXCLMobileStatControllerProtocol-p']]],
-  ['mobilestatsendertimeinterval',['mobileStatSenderTimeInterval',['../protocol_i_x_c_l_mobile_stat_controller_protocol-p.html#a5ac9ef4232ebc3e3d80dd74574382ea1',1,'IXCLMobileStatControllerProtocol-p']]]
+  ['minroutedistanceinmiles',['minRouteDistanceInMiles',['../protocol_i_x_c_l_routes_controller_protocol-p.html#a9077f5438450bef46dedb8e8baf097b4',1,'IXCLRoutesControllerProtocol-p']]]
 ];
