@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'INRIX-iOS-ClientLibrary'
-  s.version      = '8.0.0'
+  s.version      = '9.0.0'
   s.summary      = 'Provides access to data from INRIX web services.'
 
   s.description  = <<-DESC
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.ios.deployment_target = '8.0'
 
-  s.source = { :git => 'https://github.com/INRIX/iOS-MobileSDK.git', :tag => "8.0.0" }
+  s.source = { :git => 'https://github.com/INRIX/iOS-MobileSDK.git', :tag => "9.0.0" }
 
   s.xcconfig = { "GCC_PREPROCESSOR_DEFINITIONS" => '$(inherited) IXCL_FRAMEWORK=1' }
 
